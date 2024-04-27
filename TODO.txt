@@ -1,0 +1,18 @@
+DOWNLOAD NYO LAHAT NG FILES NA ANDON SA TODOWNLOAD NA FOLDER YUNG NASA DRIVE
+
+TAPOS PAG NADOWNLOAD NYO NA INSTALL NYO ISA ISA PERO YUNG WAMPSERVER ANG IHULI NYO DAHIL HINDI SYA GAGANA PAG INUNA NYO NA HINDI 
+PA INSTALL YUNG IBA
+
+PAG NAINSTALL NYO NA YUNG WAMP SERVER IOPEN NYO LNG TAPOS DAREDARETSU NAYON 
+
+PAG MAY LUMABAS NA GREEN SA BABA IBIGSABIHIN ACTIVE NA YUNG SERVER
+
+PAG ACTIVE NA YUNG SERVER SEARCH NYO NMN TO SA CHROME O GOOGLE
+http://localhost/phpmyadmin/index.php
+
+tapos lagay nyo sa username 0 email ay root tapos sa password hayaan nyo lang na wala
+
+tapos pag nakalogin na gawa kayo database na student may makikita kayong new sa left side tapos pangalan nyo students
+
+pag okay na may nakita na kayong database na student i open nyo namn yung database.py na inadd ko sa drive
+my guide don sundan nyo lang
